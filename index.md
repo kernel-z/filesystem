@@ -21,4 +21,8 @@ Jun 10, 2018
 ## I/O Initialize 
 
 
+-------------------------------------------
 
+## NVme Initialize 
+- version-0.1:
+[NVMe Initialize](https://github.com/kernel-z/filesystem/blob/master/nvme-init-exit-0.1.png)
